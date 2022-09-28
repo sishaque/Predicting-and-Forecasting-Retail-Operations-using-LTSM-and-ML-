@@ -1,1 +1,2 @@
-# Productionalization of the Multivariate Time Series Forecast Model by deploying a web app created using HTML, Python & Flask on Heroku
+# Using Python, Flask, CSS and HTML on Heroku to develop and productionalize a Time Series forecasting model to the web to perform sales predictions using
+retail data.
